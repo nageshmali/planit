@@ -111,7 +111,7 @@ function Schedule() {
                             <div className="f flex text-2xl items-center gap-2">
                                 
                                 <input type="checkbox" name="" id="" /> <FaFacebook/>
-                                <h1 className="text-lg">facebook</h1>
+                                <h1 className="text-lg">Facebook</h1>
                             </div>
                             <div className="f flex text-2xl ml-1 items-center gap-2">
                                 <input type="checkbox" name="" id="" /> <PiInstagramLogoFill/> 
